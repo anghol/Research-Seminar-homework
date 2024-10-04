@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{graphicx}
+\usepackage{a4wide}
+\title{Reconstructed abstract of the paper ``GRAND: Graph Neural Diffusion''}
+%\author{not specified, not necessary here}
+\date{}
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Graph neural networks are a special class of architectures for solving problems in various domains where the data can be represented as a graph. Currently, a large number of graph models have been developed and described using different approaches. In this work, a new GNN - Graph Neural Diffusion (GRAND) - is presented, which is based on the discretisation of diffusion PDEs on the graph. This approach allows to design a variety of new graph learning architectures that are competitive with existing methods on popular benchmarks.
+\end{abstract}
+\paragraph{Keywords:} graph neural networks, graphs, diffusion equation, differential equations, numerical methods, explicit and implicit schemes, graph learning.
+
+\paragraph{Highlights:}
+\begin{enumerate}
+\item Diffusion equations on graphs were defined and solving methods based on different numerical schemes were described.
+\item Graph Neural Diffusion (GRAND) is a new class of GNN architectures which was described using diffusion process on graph.
+\item GRAND architectures show great performance and accuracy in the computational experiments on a range of common benchmarks.
+\end{enumerate}
+
+\section{Introduction}
+I chose this article \cite{chamberlain21} because I found an interesting topic where deep learning and differential equations are combined. The article uses knowledge from the field of partial differential equations, numerical methods and graph neural networks. The information was informative because I had not previously known about the existence of such approaches. 
+%\begin{figure}
+%\includegraphics[scale=0.35]{SVD_derint}
+%\caption{A rigorous description of what the reader sees on the plot and the consequences of the shown result}
+%\end{figure}
+
+% \bibliographystyle{unsrt}
+
+\begin{thebibliography}
+
+\bibitem{chamberlain21}
+  [1] Benjamin P. Chamberlain et al.,
+  GRAND: Graph Neural Diffusion
+  \emph{Proceedings of the 38 th International Conference on Machine
+Learning},
+  PMLR 139, 2021.
+
+\end{thebibliography}
+
+\end{document}
