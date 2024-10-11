@@ -4,4 +4,4 @@ This repository collects homework for the course The Art of Scientific Research.
 
 ## Contents
 1. Abstract, keywords, and highlights: [bib](/Holicheva-theArt.bib), [tex](/Holicheva-Step-1.tex), [pdf](/Holicheva-Step-1.pdf)
-2. Industrial project description: [tex](/Name-Step-2.tex), [pdf](/Name-Step-2.pdf)
+2. Industrial project description: [tex](/Holicheva-Step-2.tex), [pdf](/Holicheva-Step-2.pdf)
