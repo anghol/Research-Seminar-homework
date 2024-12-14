@@ -7,3 +7,4 @@ This repository collects homework for the course The Art of Scientific Research.
 2. Industrial project description: [tex](/Holicheva-Step-2.tex), [pdf](/Holicheva-Step-2.pdf)
 3. Graphical highlights, slide number 3: [tex](/Holicheva-Step-3.tex), [png](/Holicheva-Step-3-fig.png), [pdf](/Holicheva-Step-3.pdf)
 4. Description of the course project: [bib](/Holicheva-Step-9.bib), [tex](/Holicheva-Step-9.tex), [pdf](/Holicheva-Step-9.pdf)
+5. Description of the computational experiment for project: [tex](/Holicheva-Step-10.tex), [pdf](/Holicheva-Step-10.pdf), [png-1](/Holicheva-Step-10-fig-1.png), [png-2](/Holicheva-Step-10-fig-2.png) 
